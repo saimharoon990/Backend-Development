@@ -1,0 +1,24 @@
+{
+  "name": "2.1-using-node",
+  "version": "1.0.0",
+  "description": "this is for npm",
+  "homepage": "https://github.com/saimharoon990/Node.js#readme",
+  "bugs": {
+    "url": "https://github.com/saimharoon990/Node.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saimharoon990/Node.js.git"
+  },
+  "license": "ISC",
+  "author": "Saim Haroon",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sillyname": "^0.1.0"
+  },
+  "keywords": []
+}
