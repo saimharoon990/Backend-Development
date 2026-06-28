@@ -21,5 +21,6 @@
     "express": "^5.2.1",
     "sillyname": "^0.1.0"
   },
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {}
 }
